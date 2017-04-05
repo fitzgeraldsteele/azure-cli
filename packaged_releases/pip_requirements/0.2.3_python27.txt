@@ -14,7 +14,7 @@ azure-cli-container==0.1.1b4
 azure-cli-core==2.0.1
 azure-cli-documentdb==0.1.1b2
 azure-cli-feedback==2.0.0
-azure-cli-find==0.0.1b1
+azure-cli-find>=0.0.1b1
 azure-cli-iot==0.1.1b3
 azure-cli-keyvault==0.1.1b6
 azure-cli-network==2.0.1
